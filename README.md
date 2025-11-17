@@ -1,1 +1,1 @@
-# sql_retail_sales
+#Retail sales Analtsis sql Project
