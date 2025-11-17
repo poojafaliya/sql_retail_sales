@@ -1,3 +1,3 @@
 # Retail sales Analtsis sql Project
 ## project overvieew
-##  project title:
+##  project title: Retail sales Analysis
