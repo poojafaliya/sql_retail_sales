@@ -9,13 +9,13 @@ This SQL project analyzes retail transaction data to understand sales performanc
 Using a transactional dataset, various SQL queries were written to extract insights such as revenue trends, category performance, customer demographics, and profitability.
 
 This project demonstrates end-to-end data analysis skills using SQL — including cleaning, aggregations, window functions, and data-based insights
-## 🛠️ Tools Used
+##  🛠️ Tools Used
 
 - Excel/CSV dataset for import
 
 - SQL Workbench
 - 
-##🔍 Key SQL Analysis Performed
+## 🔍 Key SQL Analysis Performed
 
 1️⃣ Descriptive Analysis
 
@@ -48,7 +48,7 @@ Daily sales trend
 
 Best-performing day
 
-5️⃣ Advanced SQL Concepts Used
+## 5️⃣ Advanced SQL Concepts Used
 
 Window functions
 
