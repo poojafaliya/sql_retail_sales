@@ -1,7 +1,7 @@
 # Retail sales Analtsis sql Project
 
 ##  project title: Retail sales Analysis
-  # database: https://github.com/poojafaliya/sql_retail_sales/blob/main/Retail%20Sales.xlsx
+  # database: https://github.com/poojafaliya/sql_retail_sales/blob/main/Retail%20Sales.xlsx 
   
  ## 📝 Project Overview
 
